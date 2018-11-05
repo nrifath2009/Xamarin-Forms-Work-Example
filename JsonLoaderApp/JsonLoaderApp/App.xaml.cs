@@ -11,7 +11,7 @@ namespace JsonLoaderApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new GridExample();
         }
 
         protected override void OnStart()
